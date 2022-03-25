@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @praveenjha93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Deep learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there it's Praveen ( Praveen Jha )
+Data Science Enthusiast | Data Analytics .
 
-<!---
-praveenjha93/praveenjha93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+To utilize my knowledge and ideas in this field of data science , Data Analytics toward the smooth functioning of organisation.
+I realised that satisfication is a book of achievement, which holds the learning experience records of doing trying twiddling getting failed trying
+again finally succeding in the project.
+
+
+Reach me on:
+My profile in Linkedin
+My website 
+My contribution in Data Science in 
