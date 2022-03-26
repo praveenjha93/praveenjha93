@@ -19,6 +19,8 @@ My contribution in Data Science in -https://www.kaggle.com/praveenjha1993/accoun
 
 
 
- I'm Currently working on : Data Science & Machine learning
- I'm Currently learning : Deep learning ,NLP, Computer vision 
- Words that describe me : Hardworking & Self motivated
+ I'm Currently working on : Data Science & Machine learning.
+ 
+ I'm Currently learning : Deep learning ,NLP, Computer vision.
+ 
+ Words that describe me : Hardworking & Self motivated.
